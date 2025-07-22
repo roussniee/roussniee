@@ -27,9 +27,9 @@
 
 <h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="Roussniee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Roussnie on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="border: 2px solid white; border-radius: 4px;" />][linkedin]
 <!-- update email icon image -->
-[<img align="left" alt="Roussniee | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="left" alt="Email Roussnie" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" style="border: 2px solid white; border-radius: 4px;" />][email]
 
 [linkedin]: https://linkedin.com/in/roussnie-petit-frere
 [email]: roussniepf@gmail.com
