@@ -2,38 +2,49 @@
   <a href="https://github.com/roussniee">Aspiring Software Developer</a>    
 </h1>
   <p><i>Pronouns: She/Her/Hers</i></p>
-  <p>Pronounced 'roo-s-ney'. I have over 4 years of experience coding, debugging, and creating various projects with a focus on analyzing data.</p>
+  <p>Pronounced 'roo-s-ney'. I have over four years of experience coding, debugging, and creating various projects, with a focus on data analysis.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<!--
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
--->
 
+- <b>[Azure Web App (Azure, Flask, Python, CSS/HTML)](https://github.com/roussniee/URL)</b>
+  - A secure internal web app was developed to automate the comparison of payroll data across multiple systems.
+
+- <b>[Debugging Python RegEx Code (Python, RegEx, Azure DevOps)](https://github.com/roussniee/URL)</b>
+  - Reviewing, editing, and debugging code to read blueprints meant to pull numerical data in varying formats.
+    
+- <b>[Invoice Data Extract (Python, Power Automate)](https://github.com/roussniee/URL)</b>
+  - Attempted to pull data from invoices and other forms with multiple methods to determine which version worked the best.
+
+- <b>[Minesweeper Game (C++)](https://github.com/roussniee/URL)</b>
+  - Coded a functioning minesweeper game.
+
+<!--
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-<!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[Company Metrics Report (R, SQL, Excel)](https://github.com/roussniee/URL)</b>
+  - Running various reports meant to track key company metrics such as revenue, fleet size, market trends, etc.
+
+- <b>[Work in Progress Report (Power BI, PowerApps)](https://github.com/roussniee/URL)</b>
+  - Track monthly project control progress.
+
+- <b>[Software Request PowerApp (PowerApps, Power Automate, Azure Active Directory)](https://github.com/roussniee/URL)</b>
+  - PowerApp request form to replace a cumbersome Word document.
+
+- <b>[CRM Status Flows (Power Automate, CRM)](https://github.com/roussniee/URL)</b>
+  - Various flows to track sales statuses in the CRM system.
+
+- <b>[Vessel Lifetime Value Report (Power BI, SQL)](https://github.com/roussniee/URL)</b>
+  - Report to display vessel lifetime value to support strategic decision making.
+
+- <b>[Intercompany Wire Transfer Form (PowerApps, Power Automate, SharePoint)](https://github.com/roussniee/URL)</b>
+  - Revamping and conducting user testing for a wire transfer request PowerApp.
 -->
 
 <h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="Roussnie on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="border: 2px solid white; border-radius: 4px;" />][linkedin]
-<!-- update email icon image -->
-[<img align="left" alt="Email Roussnie" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" style="border: 2px solid white; border-radius: 4px;" />][email]
+[<img align="left" alt="Connect with Roussnie on LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>][linkedin]
+[<img align="left" alt="Email Roussnie" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>][email]
 
 [linkedin]: https://linkedin.com/in/roussnie-petit-frere
 [email]: mailto:roussniepf@gmail.com
