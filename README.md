@@ -16,6 +16,9 @@
 - <b>[Debugging Python RegEx Code (Python, RegEx, Azure DevOps)](https://github.com/roussniee/REGEXDebugging)</b>
   - Reviewing, editing, and debugging code to read blueprints meant to pull numerical data in varying formats.
     
+- <b>[Company Metrics Report (R, SQL, Excel)](https://github.com/roussniee/CompanyMetricsReports)</b>
+  - Running various reports meant to track key company metrics such as revenue, fleet size, market trends, etc.
+
 - <b>[PDF Data Extract Comparison (Python, Power Automate)](https://github.com/roussniee/PDFDataExtract)</b>
   - Attempted to pull data from invoices and other forms with multiple methods to determine which version worked the best.
 
@@ -25,11 +28,14 @@
 
 <h2>🌱 Data Analysis Projects:</h2>
 
-- <b>[Company Metrics Report (R, SQL, Excel)](https://github.com/roussniee/CompanyMetricsReports)</b>
-  - Running various reports meant to track key company metrics such as revenue, fleet size, market trends, etc.
-
-- <b>[Work in Progress Report (Power BI, PowerApps)](https://github.com/roussniee/WIPReviewReport)</b>
+- <b>[Project Progress Report Dashboard (Power BI, PowerApps)](https://github.com/roussniee/WIPReviewReport)</b>
   - Track monthly project control progress.
+
+- <b>[Vessel Lifetime Value Report (Power BI, SQL)](https://github.com/roussniee/LTVReport)</b>
+  - Report to display vessel lifetime value to support strategic decision making.
+
+- <b>[Invoice Allocation Report (Power BI, Excel)](https://github.com/roussniee/InvAlloReport)</b>
+  - Report to determine what each country should be charged for various projects.
 
 - <b>[Software Request PowerApp (PowerApps, Power Automate, Azure Active Directory)](https://github.com/roussniee/SRAProject)</b>
   - PowerApp request form to replace a cumbersome Word document.
@@ -37,10 +43,7 @@
 - <b>[CRM Status Flows (Power Automate, CRM)](https://github.com/roussniee/CRMFlows)</b>
   - Various flows to track sales statuses in the CRM system.
 
-- <b>[Vessel Lifetime Value Report (Power BI, SQL)](https://github.com/roussniee/LTVReport)</b>
-  - Report to display vessel lifetime value to support strategic decision making.
-
-- <b>[Intercompany Wire Transfer Form (PowerApps, Power Automate, SharePoint)](https://github.com/roussniee/ICWTForm)</b>
+- <b>[Intercompany Wire Transfer PowerApp (PowerApps, Power Automate, SharePoint)](https://github.com/roussniee/ICWTForm)</b>
   - Revamping and conducting user testing for a wire transfer request PowerApp.
   
 
