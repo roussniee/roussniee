@@ -1,7 +1,7 @@
-<h1>Hi, I'm Roussnie! <br/>
+<h1>Hi, I'm Roussnie! 😄<br/>
   <a href="https://github.com/roussniee">Aspiring Software Developer</a>    
 </h1>
-  <p>😄<i> Pronouns: She/Her/Hers</i></p>
+  <p><i> Pronouns: She/Her/Hers</i></p>
   <p>Pronounced 'roo-s-ney'. I have over four years of experience coding, debugging, and creating various projects, with a focus on data analysis.</p>
 
 
